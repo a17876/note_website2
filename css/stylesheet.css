@@ -17,6 +17,7 @@ h2{
 .aside_ul{
     list-style-type: square; 
     text-align: left;
+    font-weight: bold;
 }
 .nav_ul{
     display: flex;
@@ -26,6 +27,7 @@ h2{
 .about, .docs{
     padding: 1px 10px;
     margin: 1px 10px;
+    font-weight: bold;
 }
 #story{
     font-family: "Baloo Tammudu 2", sans-serif;
