@@ -58,3 +58,29 @@ h2{
     border: none;
     border-radius: 0.5em;
 }
+.two{
+    display: inline-flex;
+    justify-content: flex-end;
+}
+.save{
+    background-color:#3e8fb0;
+    padding: 0 1em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    color:#fffaf3;
+    border: none;
+    border-radius: 0.5em;
+}
+.cancel{
+    background-color:#b4637a;
+    padding: 1em;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    color:#faf4ed;
+    border: none;
+    border-radius: 0.5em;
+}
+.touch{
+    font-size: 2rem;
+}
