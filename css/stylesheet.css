@@ -1,0 +1,16 @@
+body{
+    font-family: "Baloo Tammudu 2", sans-serif;
+    text-align: center;
+    background-color:#f2e9de;
+    color: #31748f ; 
+}
+h1.header{
+    margin: 0;
+    padding: 1em;
+    /* border:#59546d dotted; */
+    background-color:#31748f;
+    color: #f2e9de ;
+}
+h2{
+    padding:1em;
+}
